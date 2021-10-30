@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lim-Hobbies.AppLogger</id>
+    <version>1.0.0</version>
+    <authors>Pornchai L.</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Library to log text to console</description>
+    <tags>Logging, Logger, Log</tags>
+    <repository url="https://github.com/Lim-Hobbies/DevFun/AppLogger" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\bin\Debug\net5.0\AppLogger.dll" target="lib\net5.0\AppLogger.dll" />
+  </files>
+</package>

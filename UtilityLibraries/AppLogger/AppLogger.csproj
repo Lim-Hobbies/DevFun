@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Lim-Hobbies.AppLogger</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Pornchai L.</Authors>
+    <Company>IDEA-DD.com</Company>
+    <Description>Library to log text to console</Description>
+    <PackageTags>Logging, Logger, Log</PackageTags>
+    <RepositoryUrl>https://github.com/Lim-Hobbies/DevFun/AppLogger</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+  </PropertyGroup>
+
+</Project>

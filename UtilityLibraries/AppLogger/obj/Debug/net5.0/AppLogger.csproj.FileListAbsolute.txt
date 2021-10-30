@@ -1,0 +1,12 @@
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\bin\Debug\net5.0\AppLogger.deps.json
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\bin\Debug\net5.0\AppLogger.dll
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\bin\Debug\net5.0\ref\AppLogger.dll
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\bin\Debug\net5.0\AppLogger.pdb
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\obj\Debug\net5.0\AppLogger.csproj.AssemblyReference.cache
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\obj\Debug\net5.0\AppLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\obj\Debug\net5.0\AppLogger.AssemblyInfoInputs.cache
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\obj\Debug\net5.0\AppLogger.AssemblyInfo.cs
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\obj\Debug\net5.0\AppLogger.csproj.CoreCompileInputs.cache
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\obj\Debug\net5.0\AppLogger.dll
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\obj\Debug\net5.0\ref\AppLogger.dll
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\AppLogger\obj\Debug\net5.0\AppLogger.pdb
