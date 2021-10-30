@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibraryTest\\StringLibraryTest.csproj": {}
+  },
+  "projects": {
+    "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibraryTest\\StringLibraryTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibraryTest\\StringLibraryTest.csproj",
+        "projectName": "StringLibraryTest",
+        "projectPath": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibraryTest\\StringLibraryTest.csproj",
+        "packagesPath": "C:\\Users\\Ponchai\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibraryTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ponchai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj": {
+                "projectPath": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj",
+        "projectName": "StringLibrary",
+        "projectPath": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj",
+        "packagesPath": "C:\\Users\\Ponchai\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ponchai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -10,3 +10,15 @@ D:\dev\_win\dotnet\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary
 D:\dev\_win\dotnet\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.dll
 D:\dev\_win\dotnet\UtilityLibraries\StringLibrary\obj\Debug\net5.0\ref\StringLibrary.dll
 D:\dev\_win\dotnet\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.pdb
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\bin\Debug\net5.0\StringLibrary.deps.json
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\bin\Debug\net5.0\StringLibrary.dll
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\bin\Debug\net5.0\ref\StringLibrary.dll
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\bin\Debug\net5.0\StringLibrary.pdb
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.csproj.AssemblyReference.cache
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.AssemblyInfoInputs.cache
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.AssemblyInfo.cs
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.dll
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\obj\Debug\net5.0\ref\StringLibrary.dll
+D:\dev\_win\dotnet\Lim-Hobbies\UtilityLibraries\StringLibrary\obj\Debug\net5.0\StringLibrary.pdb

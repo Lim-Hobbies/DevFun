@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\_win\\dotnet\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj",
+      "projectUniqueName": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj",
       "projectName": "StringLibrary",
-      "projectPath": "D:\\dev\\_win\\dotnet\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj",
+      "projectPath": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\StringLibrary.csproj",
       "packagesPath": "C:\\Users\\Ponchai\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\_win\\dotnet\\UtilityLibraries\\StringLibrary\\obj\\",
+      "outputPath": "D:\\dev\\_win\\dotnet\\Lim-Hobbies\\UtilityLibraries\\StringLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
